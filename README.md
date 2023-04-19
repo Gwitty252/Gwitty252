@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gwitty252
-- 👀 I’m interested in photography, UI/UX design, graphic and Team Administration 
-- 🌱 I’m currently learning ...flutter and UI/UX Design 
-- 💞️ I’m looking to collaborate on Team admistration 
+- 👀 I’m interested in Mobile Development (using Kotlin), project Management, photography, UI/UX design, and Team Administration 
+- 🌱 I’m currently learning ..., C++, and flutter 
+- 💞️ I’m looking to collaborate with Teams on admistration and project management. 
 - 📫 How to reach me +234-9131170904 
 
 <!---
